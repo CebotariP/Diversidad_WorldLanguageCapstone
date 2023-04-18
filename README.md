@@ -16,4 +16,3 @@ License: https://bootstrapmade.com/license/
 - Solutions: 
   - https://hbr.org/2016/07/why-diversity-programs-fail
   - https://insight.kellogg.northwestern.edu/article/improve-diversity-training
-  - 
